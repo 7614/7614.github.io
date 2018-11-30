@@ -1,6 +1,6 @@
 # Batteries
 
-12V, 18 Amp-Hour capacity. Don't put your tounge on the terminals.
+12V, 18 Amp-Hour capacity. Don't put your tongue on the terminals.
 
 * At *least* four for a season
 * Fresh batteries every year
